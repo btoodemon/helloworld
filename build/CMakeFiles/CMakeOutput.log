@@ -454,3 +454,31 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 The CXX compiler identification is GNU, found in "/Users/btoo/cprojects/helloworld/build/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o"
 
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/local/bin/g++-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+g++-11: warning: could not understand version 13.04.00
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "/Users/btoo/cprojects/helloworld/build/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/local/bin/g++-11 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+g++-11: warning: could not understand version 13.04.00
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "/Users/btoo/cprojects/helloworld/build/CMakeFiles/3.22.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
