@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240508-0559-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="btoodeMacBook-Pro.local"
+	OSRelease="13.4.1"
+	OSVersion="22F82"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="32768"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="2900"
+	>
+	<Testing>
+		<StartDateTime>May 08 13:59 CST</StartDateTime>
+		<StartTestTime>1715147941</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 08 13:59 CST</EndDateTime>
+		<EndTestTime>1715147941</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
